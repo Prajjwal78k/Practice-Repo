@@ -1,2 +1,2 @@
 # Practice-Repo
-Just ofr practice
+Just for practice
